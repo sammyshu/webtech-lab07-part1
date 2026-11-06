@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <meta description="Using PHP Variables, arrays and operators"/>
-    <meta keywords="PHP, Variables, arrays, operators"/>
-    <meta author="Sammy"/>
+    <meta name="description" content="Using PHP Variables, arrays and operators"/>
+    <meta name="keywords" content="PHP, Variables, arrays, operators"/>
+    <meta name="author" content="Sammy"/>
     <title>Using PHP Variables, arrays and operators</title>
 
 </head>
